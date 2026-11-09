@@ -8,9 +8,9 @@
 - fw.1.0.2.bin - прошивка 1.0.2
 
 ### Путь для просмотра файлов средствами GitHub:
-https://github.com/GushchinDmitry/xcom_dev/blob/main/[файл]
+https://github.com/ashsoftdebug/ota_dummy_controller/blob/main/[файл]
 ### Путь для прямого доступа к файлам извне:
-https://raw.githubusercontent.com/GushchinDmitry/xcom_dev/refs/heads/main/[файл]
+https://raw.githubusercontent.com/ashsoftdebug/ota_dummy_controller/refs/heads/main/[файл]
 ## Изменения
 ### 09.11.26
 - никаких
