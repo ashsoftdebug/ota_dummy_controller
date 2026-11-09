@@ -13,4 +13,4 @@ https://github.com/ashsoftdebug/ota_dummy_controller/blob/main/[файл]
 https://raw.githubusercontent.com/ashsoftdebug/ota_dummy_controller/refs/heads/main/[файл]
 ## Изменения
 ### 09.11.26
-- никаких
+- никаких, начало...
